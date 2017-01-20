@@ -5,20 +5,20 @@ Aplikasi yang menyajikan monitoring pengumpulan data produktivitas tanaman panga
 Aplikasi dibuat dengan menggunakan Java Swing, database MySQL.
 Aplikasi berbasis client-server dimana pengguna nanti hanya mengubah DBProperty.txt
 
-Fitur yang tersedia:
+### Fitur yang tersedia:
 (Master)
-1. Master DSBS
-2. Master DSRT
-3. Master Petugas
-4. Master Operator
+- Master DSBS
+- Master DSRT
+- Master Petugas
+- Master Operator
 
 (Main)
-5. Entri
-6. Progress Report
+- Entri
+- Progress Report
 
 (Dalam pengembangan)
-7. Backup dan Restore
-8. Ekspor Data
+- Backup dan Restore
+- Ekspor Data
 
 Untuk ke depan, aplikasi bisa membuat database dan mengimport tabel2.
 
